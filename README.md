@@ -1,2 +1,4 @@
-# Placify
-Placify is a smart placement portal for our college that streamlines the recruitment process for students, companies, and the TPO. Our platform reduces reliance on manual processes and provides a centralized platform for recruitment, making the process more efficient, transparent, and accessible for everyone involved.
+# Blog Site
+A fully functioning CRUD Blog Application with an Administrator Panel/Dashboard using PHP and MySQL. This project features a user registration and login system with access control, creating posts, updating posts, deleting posts, adding users, updating users, deleting users, creating categories, updating categories, deleting categories, and more!
+
+![Blog Site Demo](https://github.com/ersuheb/Blog-Site/assets/81223989/ea70efb9-7e60-4474-a1bf-23c5e58d87fd)
